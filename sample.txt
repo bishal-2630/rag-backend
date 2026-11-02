@@ -1,0 +1,22 @@
+Acme Robotics Company Handbook
+
+About Acme Robotics
+Acme Robotics was founded in 2015 in Kathmandu, Nepal by Sita Sharma and Ram Thapa. The company builds warehouse automation robots and employs about 120 people. Its headquarters are in Lalitpur, with a smaller office in Pokhara.
+
+Working Hours and Leave
+The standard working week is Sunday to Friday, from 9:30 AM to 5:30 PM. Employees receive 18 days of paid annual leave and 12 days of paid sick leave each year. Unused annual leave can be carried over for a maximum of 6 days into the next year. Maternity leave is 98 days, and paternity leave is 15 days.
+
+Remote Work Policy
+Employees may work remotely up to two days per week with manager approval. Remote workers must be available on Slack between 10:00 AM and 4:00 PM. Full-time remote work is only allowed for senior engineers who have completed two years at the company.
+
+Products
+The flagship product is the AcmeLift 300, a warehouse robot that can carry loads up to 300 kilograms. It runs for 8 hours on a single charge and costs 12,000 US dollars per unit. A smaller model, the AcmeLift 80, carries up to 80 kilograms and costs 5,500 US dollars. Both models come with a two-year warranty.
+
+Hiring Process
+The interview process has three stages. First is a 30-minute screening call with the HR team. Second is a technical interview with two engineers, lasting about 60 minutes. The final stage is a conversation with the department head. Candidates usually hear back within one week of the final interview.
+
+Benefits
+Acme Robotics provides health insurance for employees and their immediate family. The company also gives an annual learning budget of 800 US dollars per employee for courses and books. Free lunch is served at the Lalitpur office on weekdays.
+
+Contact
+General inquiries can be sent to info@acmerobotics.example. The HR team can be reached at hr@acmerobotics.example.

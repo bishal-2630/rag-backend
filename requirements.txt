@@ -1,4 +1,9 @@
 fastapi
 uvicorn[standard]
 pydantic-settings
-python-multipart
+python-multipart 
+sqlalchemy[asyncio]
+asyncpg
+qdrant-client
+fastembed
+pypdf

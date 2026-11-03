@@ -11,3 +11,4 @@ redis
 google-genai
 email-validator
 pytest
+mypy

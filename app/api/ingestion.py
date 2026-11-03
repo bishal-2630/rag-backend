@@ -8,14 +8,10 @@ from app.core.database import get_session
 from app.models.document import Document
 from app.schemas.document import DocumentOut
 from app.services.chunking import ChunkingStrategy, get_chunker
-from app.services.embeddings import EmbeddingService
 from app.services.extraction import UnsupportedFileTypeError, extract_text
-from app.services.vector_store import VectorStore
+from app.core.deps import embedder, vector_store
 
 router = APIRouter(prefix="/documents", tags=["ingestion"])
-
-embedder = EmbeddingService()
-vector_store = VectorStore()
 
 
 @router.post("/upload", response_model=DocumentOut)

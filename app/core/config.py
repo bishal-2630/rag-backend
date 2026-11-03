@@ -9,6 +9,7 @@ class Settings(BaseSettings):
     embedding_model: str = "BAAI/bge-small-en-v1.5"
     embedding_dim: int = 384
     gemini_api_key: str = ""
+    gemini_model: str = "gemini-3.5-flash"
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 

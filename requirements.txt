@@ -10,3 +10,4 @@ pypdf
 redis
 google-genai
 email-validator
+pytest
